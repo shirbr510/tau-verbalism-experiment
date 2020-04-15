@@ -1,5 +1,6 @@
 # tau-verbalism-experiment
 random link redirector using github pages
+https://tau-verbalism-experiment.github.io/tau-verbalism-experiment/
 
 ## Isn't this super simple?
 a friend of mine is carrying an experiment and all the solutions she knows insist on google forms
